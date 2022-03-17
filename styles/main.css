@@ -1,0 +1,19 @@
+/*color palletes  #EAEAEA #FF2E63*/
+body{
+    /* background-color: #EAEAEA; */
+    text-align: center;
+}
+
+
+nav i{
+    font-size: 1.429em !important;
+    font-weight: 900 !important;
+}
+
+#carouselExampleDark{
+    /* width: 500px; */
+}
+
+#head-section{
+    height: 500px;
+}
